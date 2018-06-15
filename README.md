@@ -5,6 +5,9 @@ resources
 Helper script for deploying the Signal Sciences reverse proxy agent in a Kubernetes cluster:
 https://github.com/foospidy/sigsci-cloud-kube.git
 
+Pre-built docker containers and YAML files for Kube
+https://github.com/signalsciences/SigSciDockerExample
+
 Logstash input plugin for Signal Sciences requests feed API:
 https://github.com/foospidy/logstash-input-signalsciences
 
