@@ -1,5 +1,5 @@
 # sigsci-resources
-Links and resources for Signal Sciences: some tiesm are here in this repo and below are links to other usefule signal sciences
+Links and resources for Signal Sciences: here in this repo and below are links to other usefule signal sciences
 resources
 
 Helper script for deploying the Signal Sciences reverse proxy agent in a Kubernetes cluster:
